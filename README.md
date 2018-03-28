@@ -1,3 +1,0 @@
-# chickenNugget
-# CNF
-# CF
